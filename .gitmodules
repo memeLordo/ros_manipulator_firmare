@@ -1,11 +1,14 @@
 [submodule "r2d2_utils_pkg"]
     path = r2d2_utils_pkg
     url = https://github.com/memeLordo/r2d2_utils_pkg
+    branch = main
 
 [submodule "manipulator_imitator"]
     path = manipulator_imitator
     url = https://github.com/memeLordo/r2d2_manipulator_imitator
+    branch = main
 
 [submodule "manipulator_control"]
     path = manipulator_control
     url = https://github.com/memeLordo/r2d2_manipulator_control
+    branch = main
